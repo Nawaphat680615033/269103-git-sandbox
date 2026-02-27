@@ -35,9 +35,10 @@
    * Explain why it's essential for new engineers (in your own words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+1. mv (move or rename files) the way you can move or rename file is one of the most important thing you need to know and it will make you work more efficiently (especially monve (for me))
+2. cp (copy) I think copy file will make you work more easily and also make you work more efficiently
 
-2. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
+3. After one and a half years in the ISNE program, what advice would you give to prospective ISNE students? (Minimum 50 words)
 
 **Answer:** 
-*TYPE_YOUR_ANSWER_HERE*
+Please pay more attention in class don't talk with your friends too much (while in the class ( like me ) ) and when the professor give you the assignment or work or quizz (whatever) I strongly recommend you to finish it as soon as possible, it will make you get well score and won't forgot to do it (like me)
